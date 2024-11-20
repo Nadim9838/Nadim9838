@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadim Ahmad</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Ftechnology&psig=AOvVaw0tegnLqiq0Vt7OCjokUFEw&ust=1732211767697000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDQsOu964kDFQAAAAAdAAAAABAE"></img>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Ftechnology&psig=AOvVaw0tegnLqiq0Vt7OCjokUFEw&ust=1732211767697000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDQsOu964kDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim9838nadim9838&label=Profile%20views&color=0e75b6&style=flat" alt="nadim9838nadim9838" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadim9838nadim9838" alt="nadim9838nadim9838" /></a> </p>
