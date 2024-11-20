@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nadim Ahmad</h1>
-<h3 align="center">A passionate backend developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Ftechnology&psig=AOvVaw0tegnLqiq0Vt7OCjokUFEw&ust=1732211767697000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDQsOu964kDFQAAAAAdAAAAABAE">
+<h3 align="center">A passionate PHP developer</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FJ4o&psig=AOvVaw0tegnLqiq0Vt7OCjokUFEw&ust=1732211767697000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDQsOu964kDFQAAAAAdAAAAABAf" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim9838nadim9838&label=Profile%20views&color=0e75b6&style=flat" alt="nadim9838nadim9838" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadim9838nadim9838" alt="nadim9838nadim9838" /></a> </p>
 
 - 🔭 I’m currently working in [Media Tech Temple](https://www.mediatechtemple.com/)
 
-- 👯 My skills are **PHP, HTML, CSS, JavaScript, Codeigniter**
+- 👯 My skills are **PHP, HTML, CSS, JavaScript, and Codeigniter**
 
 - 🌱 My recent company was [Tecstub](https://www.tecstub.com/)
 
-- 👨‍💻 All of my projects are available at [e-learning, e-commerce, e-ducation](e-learning, e-commerce, e-ducation)
+- 👨‍💻 All of my projects are available at [e-learning, e-commerce, e-ducation](e-learning, e-commerce, e-education)
 
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, Codeigniter**
 
