@@ -47,6 +47,17 @@
 - 🔭 **Currently Working At**: [Media Tech Temple](https://www.mediatechtemple.com/)  
 - 🧑‍💼 **Previously At**: [Tecstub](https://www.tecstub.com/)  
 - 📫 **Reach Me**: [nadimahmad630@gmail.com](mailto:nadimahmad630@gmail.com)
+---
+
+## 🌐 **Live Projects**
+
+| 🌍 Project | 📄 Description | 🛠️ Stack |
+|-----------|----------------|-----------|
+| [MobileSentrix](https://www.mobilesentrix.com/) | Magento E-Commerce | PHP, Magento, MySQL |
+| [Situ Watch Factory](https://situwatchfactory.in/) | ECommerce Watch Store | Laravel, Jquery, Bootstrap |
+| [MSBU Admission](https://msbuadmission.in/home/) | University ERP System | PHP, CodeIgniter, MySQL |
+| [MSBU Affiliation](https://msbuaffiliation.in/) | University Affiliation System | PHP, CodeIgniter, MySQL |
+| [Govt College Todabhim](https://gctodabhim.ac.in/) | College Management | PHP, jQuery, Ajax, Bootstrap |
 
 ---
 
@@ -54,22 +65,13 @@
 
 | 🚀 Project | 📄 Description | ⚙️ Stack |
 |-----------|----------------|----------|
-| [E-Commerce Platform](https://github.com/nadim9838nadim9838/E-Commerce) | Full-featured shopping system | PHP, CI, MySQL, Bootstrap |
+| [ECommerce Laravel Project](https://github.com/Nadim9838/ecommerce-laravel) | ECommerce Laravel Project | PHP, Laravel, MySQL, Bootstrap, jQuery |
+| [Laravel News Project](https://github.com/Nadim9838/news-project-laravel) | Laravel News Project | PHP, Laravel, MySQL, Bootstrap, jQuery, Ajax |
+| [E-Commerce Platform](https://github.com/nadim9838nadim9838/E-Commerce) | Full-featured shopping system | PHP, CodeIgniter, MySQL, Bootstrap, jQuery |
 | [City News Portal](https://github.com/nadim9838nadim9838/City-News) | Dynamic news website | PHP, JavaScript, HTML5 |
 | [RVS College Management](https://github.com/nadim9838nadim9838/RVS-Inter-College) | College ERP system | PHP, MySQL, jQuery |
-| [Social Media Automation](https://github.com/nadim9838nadim9838/Social-Media-Automation) | Auto-posting & analytics | PHP, Cron, APIs |
+| [Social Media Automation](https://github.com/nadim9838nadim9838/Social-Media-Automation) | Auto-posting & analytics | PHP, Web Socket, Cron, APIs |
 | [E-Learning Portal](https://github.com/nadim9838nadim9838/E-Learning-Portal) | Courses + Quizzes | PHP, JavaScript, MySQL |
-
----
-
-## 🌐 **Live Projects**
-
-| 🌍 Project | 📄 Description | 🛠️ Stack |
-|-----------|----------------|-----------|
-| [MobileSentrix](https://www.mobilesentrix.com/) | Magento E-Commerce | PHP, CI, MySQL |
-| [Situ Watch Factory](https://situwatchfactory.in/) | Watch Store Website | Laravel, Bootstrap |
-| [MSBU Admission](https://msbuadmission.in/home/) | University ERP System | PHP, CI, MySQL |
-| [Govt College Todabhim](https://gctodabhim.ac.in/) | College Management | PHP, jQuery, Ajax |
 
 ---
 
